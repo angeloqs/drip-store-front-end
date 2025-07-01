@@ -42,7 +42,7 @@ git clone https://github.com/angeloqs/drip-store-front-end.git
 npm install
 
 # Inicie o ambiente de desenvolvimento
-npm rud dev
+npm run dev
 
 # Acesse o endereço e visualize a página no navegador
 http://localhost:5173
