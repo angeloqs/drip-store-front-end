@@ -5,6 +5,7 @@ import ProductViewPage from './pages/productViewPage';
 import CategoriasPage from './pages/categoriasPage';
 import MeusPedidosPage from './pages/meusPedidosPage';
 import ProductPage from './pages/productPage'; 
+import NotFoundPage from './pages/notFoundPage';
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
           <Route path="produto/:id" element={<ProductViewPage />} />
           <Route path="categorias" element={<CategoriasPage />} />
           <Route path="pedidos" element={<MeusPedidosPage />} />
+          <Route path="*" element={<NotFoundPage />} />
         </Route>
       </Routes>
   );
