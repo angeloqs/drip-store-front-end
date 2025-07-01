@@ -3,8 +3,8 @@
 <div align="left">
 
 ![Static Badge](https://img.shields.io/badge/Status-Concluído-darkgreen?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/angeloqs/drip-store-back-end?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/angeloqs/drip-store-back-end?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/angeloqs/drip-store-front-end?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/angeloqs/drip-store-front-end?style=for-the-badge)
 
 </div>
 
