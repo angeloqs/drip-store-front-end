@@ -50,6 +50,22 @@ npm run dev
 http://localhost:5173
 ```
 
+## 🎯 Desafio e Aprendizado
+Durante o desenvolvimento, havia como demanda do projeto a criação de uma tela de erro personalizada, que fosse exibida quando o usuário clicasse em algum link do site e fosse direcionado para uma rota de página não encontrada (Error 404).
+
+### 🔧 Como Foi Desenvolvido
+1. Criação Inicial: desenvolvi uma versão da página com a ajuda da Claude.AI, gerando a estrutura base.
+2. Revisão do Código: fiz a revisão manual, alterei o conteúdo que era bem extenso e adaptei à identidade visual do projeto.
+3. Animação e Funcionalidade: solicitei ajuda da IA para animar a tela em JavaScript, deixando-a funcional e elegante.
+
+### 💡 Aprendizados Chave
+IA como Copiloto: A inteligência artificial acelerou o desenvolvimento, mas a revisão humana foi essencial para garantir qualidade e coerência
+Equilíbrio Técnico: Combinar código gerado por IA com ajustes manuais resultou em um produto final mais polido
+
+### 🚀 Resultado
+A tela 404 agora é funcional, animada e alinhada com o design system da Drip Store, demonstrando que até mesmo situações de erro podem ser oportunidades de destacar a qualidade do produto.
+
+
 ## 💡 Créditos
 
 Este projeto é fruto de uma jornada coletiva, impulsionada pelo apoio essencial da **Geração Tech**, ferramentas que democratizam o desenvolvimento e, claro, horas de pura dedicação.  
