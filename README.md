@@ -1,5 +1,7 @@
 # 🌟 Projeto Drip Store Front End - Geração Tech 2.0
 
+![dripstore_angeloqs](https://github.com/user-attachments/assets/5a25d786-d0b5-4471-be3b-32176071df0f)
+
 <div align="left">
 
 ![Static Badge](https://img.shields.io/badge/Status-Concluído-darkgreen?style=for-the-badge)
